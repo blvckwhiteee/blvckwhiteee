@@ -12,7 +12,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.instagram.com/que.ota_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=blvckwhiteee&show_icons=true&locale=en&layout=compact" alt="blvckwhiteee" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=blvckwhiteee&theme=dark&show_icons=true&locale=en&layout=compact" alt="blvckwhiteee" /></p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blvckwhiteee/blvckwhiteee/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blvckwhiteee/blvckwhiteee/output/github-snake.svg" />
